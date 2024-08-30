@@ -241,7 +241,7 @@
 ### Example `/etc/fstab` Entry:
 ```bash
 /dev/sda1   /mnt/data   ext4    defaults    0   2
-
+```
 
 ### Explanation:
 - **Disk and Partition Management**: Commands for handling disk partitions, filesystems, and mounting.
@@ -249,8 +249,6 @@
 - **Filesystem Management**: Commands for working with filesystems, including mounting, creating, and checking.
 - **Swap Management**: Commands for creating, enabling, and managing swap space.
 - **Auto-Mount Configuration**: Guidance on configuring filesystems to be automatically mounted at boot via `/etc/fstab`.
-
-This table format is ready to be copied into a `.md` file and will display nicely on GitHub.
 
 # CentOS Enterprise Linux 7 Network Management Cheat Sheet
 
